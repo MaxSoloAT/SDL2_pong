@@ -1,0 +1,15 @@
+﻿  Autobot.cpp
+  Ball.cpp
+  Paddle.cpp
+  PlayerScore.cpp
+  pong.cpp
+  Vec2.cpp
+F:\VS2017\pong\pong\pong\Autobot.cpp(20,32): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+F:\VS2017\pong\pong\pong\Ball.cpp(23,10): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+F:\VS2017\pong\pong\pong\Ball.cpp(25,12): warning C4244:  инициализация: преобразование "int" в "float", возможна потеря данных
+F:\VS2017\pong\pong\pong\pong.cpp(314,43): warning C4244:  аргумент: преобразование "float" в "const int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 182 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  pong.vcxproj -> F:\VS2017\pong\pong\Release\pong.exe
